@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🙃Creating bugs since 2021 <br>📚I'm currently learning Java, Typescrip & Basic Python<br>💎Experienced in Cloud Services - Supabase, Firebase<br>🔮Building CRUD Applications with Springboot Java<br>🎮Trying to learn Minecraft Plugins Development & Discord Bot Development</p>
+<p align="left">🙃Creating bugs since 2021 <br>📚I'm currently learning Java, Typescript & Basic Python<br>💎Experienced in Cloud Services - Supabase, Firebase<br>🔮Building CRUD Applications with Springboot Java<br>🎮Trying to learn Minecraft Plugins Development & Discord Bot Development</p>
 
 ###
 
